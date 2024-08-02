@@ -504,6 +504,17 @@ Secure settings is supported since Grafana v7.2.
 | ----- | -------------- |
 | token | yes            |
 
+#### Alert notification `MQTT`
+
+| Name               | Secure setting |
+| ------------------ | -------------- |
+| brokerUrl          |                |
+| clientId           |                |
+| topic              |                |
+| username           |                |
+| password           | yes            |
+| insecureSkipVerify |                |
+
 #### Alert notification `pagerduty`
 
 | Name           | Secure setting |
