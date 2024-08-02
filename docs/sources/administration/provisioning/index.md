@@ -511,6 +511,7 @@ Secure settings is supported since Grafana v7.2.
 | brokerUrl          |                |
 | clientId           |                |
 | topic              |                |
+| messageFormat      |
 | username           |                |
 | password           | yes            |
 | insecureSkipVerify |                |
