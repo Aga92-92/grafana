@@ -1175,6 +1175,9 @@
       "total-resource-count": "",
       "upload-migration": ""
     },
+    "support-types-disclosure": {
+      "text": ""
+    },
     "token-status": {
       "active": "Token criado e ativo",
       "no-active": "Nenhum token ativo",

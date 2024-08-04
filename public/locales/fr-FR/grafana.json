@@ -1175,6 +1175,9 @@
       "total-resource-count": "",
       "upload-migration": ""
     },
+    "support-types-disclosure": {
+      "text": ""
+    },
     "token-status": {
       "active": "Jeton créé et actif",
       "no-active": "Aucun jeton actif",

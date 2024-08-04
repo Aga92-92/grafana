@@ -1168,6 +1168,9 @@
       "total-resource-count": "",
       "upload-migration": ""
     },
+    "support-types-disclosure": {
+      "text": ""
+    },
     "token-status": {
       "active": "令牌已创建并激活",
       "no-active": "无激活的令牌",
